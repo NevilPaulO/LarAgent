@@ -231,7 +231,7 @@ Let's find out more in [documentation](https://docs.laragent.ai/) 👍
 
 ### Requirements
 
-*   Laravel 10.x or higher
+*   Laravel 10.x, 11.x, 12.x, or 13.x
 *   PHP 8.3 or higher
 
 ### Installation
